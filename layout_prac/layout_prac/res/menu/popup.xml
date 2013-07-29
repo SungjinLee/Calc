@@ -1,0 +1,27 @@
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        
+        
+       
+        <item
+        
+        android:id="@+id/sms"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="문자/메일"/>
+ 		<item
+        
+        
+        android:id="@+id/kakao"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="카카오"/>
+        
+        
+        
+        
+        
+        
+        
+        
+    </menu>
